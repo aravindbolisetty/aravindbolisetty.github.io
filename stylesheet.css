@@ -1,0 +1,53 @@
+img{
+	border: 0px;
+	float: left;
+}
+
+header{
+	background-color: #1A1919;
+}
+
+h1{
+	color: white;
+	font-family: verdana;
+	text-align: center;
+}
+
+p.head{
+	color: white;
+	font-family: verdana;
+	text-align: center;
+
+}
+
+a:link{
+	color: #248FB2;
+	font-family: georgia;
+	text-decoration: none;
+	target: _blank;
+}
+
+a:hover{
+	color: #00FF99;
+	font-family: georgia;
+	text-decoration: none;
+}
+
+h2{
+	color: white;
+	background-color: #336496;
+	text-indent: 10px;
+	font-family: verdana;
+}
+
+h3{
+	background-color: #47A3FF;
+	color: white;
+	text-indent: 10px;
+	font-family: verdana;
+}
+
+p{
+	font-family: georgia;
+}
+
