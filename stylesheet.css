@@ -1,3 +1,8 @@
+body{
+	border: none;
+	margin: 0px;
+}
+
 div{
 	padding-bottom: 2px;
 }
@@ -6,7 +11,7 @@ img{
 	border: 0px;
 	float: left;
 	padding-right: 10px;
-	padding-bottom: 2px;
+	/*padding-bottom: 2px;*/
 }
 
 header{
@@ -15,6 +20,7 @@ header{
 }
 
 p.h1{
+	margin: 0px;
 	color: white;
 	font-family: verdana;
 	text-align: center;
@@ -28,11 +34,12 @@ p.head{
 
 }
 
+
+
 a:link{
 	color: #248FB2;
 	font-family: georgia;
 	text-decoration: none;
-	target: _blank;
 }
 
 a:hover{
@@ -51,6 +58,7 @@ p.h2{
 
 p.h3{
 	background-color: #47A3FF;
+	width: 80%;
 	color: white;
 	text-indent: 10px;
 	font-family: verdana;
@@ -59,6 +67,17 @@ p.h3{
 
 p{
 	font-family: georgia;
-	padding-left: 5px;
+	padding-left: 10px;
+	text-align: justify;
+
 }
 
+#nav{
+	float: right;
+	padding-right:50px;
+}
+
+p.p_aboutme{
+	width: 80%;
+	padding-left: 10px;
+}
