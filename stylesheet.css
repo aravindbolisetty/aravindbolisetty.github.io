@@ -24,7 +24,7 @@ p.h1{
 	color: white;
 	font-family: verdana;
 	text-align: center;
-	font-size: 2em;
+	font-size: 2.1em;
 }
 
 p.head{
@@ -40,6 +40,7 @@ a:link{
 	color: #248FB2;
 	font-family: georgia;
 	text-decoration: none;
+	target = '_blank';
 }
 
 a:hover{
@@ -50,19 +51,22 @@ a:hover{
 
 p.h2{
 	color: white;
+	height:40px;
 	background-color: #336496;
 	text-indent: 10px;
 	font-family: verdana;
-	font-size: 1.5em;
+	font-size: 1.6em;
 }
 
 p.h3{
 	background-color: #47A3FF;
 	width: 80%;
 	color: white;
+	height: 35px;
 	text-indent: 10px;
 	font-family: verdana;
-	font-size: 1.3em;
+	font-size: 1.5em;
+	position: center;
 }
 
 p{
